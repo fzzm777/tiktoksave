@@ -4,7 +4,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemo
 import requests
 import os
 
-API_TOKEN = os.getenv("BOT_TOKEN")
+API_TOKEN = os.getenv("7540767411:AAESj0--99f-O6H542u_l3t1qpNzL-Szh4U")
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
